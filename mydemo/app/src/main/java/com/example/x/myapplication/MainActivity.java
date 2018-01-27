@@ -11,12 +11,10 @@ public class MainActivity extends AppCompatActivity {
          //是是是
         //
         //
-        //试试ssssssssssss
-        //ssssssswwwwwwwww
-        //ssss是是是wwwwwwwwwwwww
-        //sss试试wwwwwwwwww
-        //ssss少时诵诗书wwwwwwwwwwww
-        //ssssswwwwwwwwwwwwwwww
+        //试试sssssssss
+        //ssssssss
+        //sssss
+        //ssss少时诵诗书wwwws
         //sssssssssssssssssssssssssssssswwwwwwwwwwwwwww
         setContentView(R.layout.activity_main);
     }
